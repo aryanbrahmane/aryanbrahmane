@@ -11,12 +11,12 @@
 ---
 
 ### 🕵️‍♂️ The Batcave Archives (About Me)
-I am a Computer Engineering student at SFIT, Mumbai, merging heavy technical development with organizational leadership[cite: 3]. Currently operating in the shadows as a **Machine Learning Intern at L2 Aero** and a **Backend AI Engineering Intern at FlyRank AI**[cite: 3].
+I am a Computer Engineering student at SFIT, Mumbai, merging heavy technical development with organizational leadership. Currently operating in the shadows as a **Machine Learning Intern at L2 Aero** and a **Backend AI Engineering Intern at FlyRank AI**.
 
-- 🔭 **Currently working on:** AI data workflows, RESTful API architectures, and ML pipelines[cite: 3].
-- 🏆 **Achievements:** National Finalist at Smart India Hackathon (SIH) 2024 (NSG Problem Statement)[cite: 3].
-- 🤝 **Leadership:** Head of NSS & Treasurer of CSI at SFIT, organizing national hackathons like HackX 2.0[cite: 3].
-- 📫 **Reach me at:** [aryanbrahmane@gmail.com](mailto:aryanbrahmane@gmail.com)[cite: 3]
+- 🔭 **Currently working on:** AI data workflows, RESTful API architectures, and ML pipelines.
+- 🏆 **Achievements:** National Finalist at Smart India Hackathon (SIH) 2024 (NSG Problem Statement).
+- 🤝 **Leadership:** Head of NSS & Treasurer of CSI at SFIT, organizing national hackathons like HackX 2.0.
+- 📫 **Reach me at:** [aryanbrahmane@gmail.com](mailto:aryanbrahmane@gmail.com)
 
 ---
 
@@ -64,9 +64,9 @@ I am a Computer Engineering student at SFIT, Mumbai, merging heavy technical dev
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[CrowdPulse](https://github.com/aryanbrahmane/CrowdPulse)** | Real-time monitoring dashboard analyzing live crowd density data[cite: 3]. | `React.js` `Flask` `Python` `REST APIs`[cite: 3] |
-| **[RhythmForge](https://github.com/aryanbrahmane/RhythmForge)** | Text-to-music AI generation platform transforming prompts into .wav audio[cite: 3]. | `Python` `Deep Learning` `MusicGen`[cite: 3] |
-| **[Retain-X](#)** | Full-stack predictive analytics dashboard processing complex retention metrics[cite: 3]. | `React.js` `Flask` `Firebase` `ML`[cite: 3] |
+| **[CrowdPulse](https://github.com/aryanbrahmane/CrowdPulse)** | Real-time monitoring dashboard analyzing live crowd density data. | `React.js` `Flask` `Python` `REST APIs` |
+| **[RhythmForge](https://github.com/aryanbrahmane/RhythmForge)** | Text-to-music AI generation platform transforming prompts into .wav audio. | `Python` `Deep Learning` `MusicGen` |
+| **[Retain-X](#)** | Full-stack predictive analytics dashboard processing complex retention metrics[cite: 3]. | `React.js` `Flask` `Firebase` `ML` |
 
 ---
 
